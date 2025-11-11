@@ -1,0 +1,4 @@
+Brand Name :	Coca Cola
+Manager Name :	Dr.Fahad Farooq
+Count :	20000
+Level :	A

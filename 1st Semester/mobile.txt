@@ -1,0 +1,9 @@
+Mobile Name:	Tecno Spark 6Go
+Mobile Price:	45000
+Mobile Memory:	256Mobile Ram:	8
+Mobile brand:	Techno
+Mobile Name:	Vivo y30
+Mobile Price:	45000
+Mobile Memory:	128
+Mobile Ram:	5
+Mobile brand:	Vivo

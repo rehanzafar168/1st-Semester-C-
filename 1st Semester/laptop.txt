@@ -1,0 +1,3 @@
+Laptop Name:	Dell Company
+Laptop price:	50000
+Laptop Color:	Black
